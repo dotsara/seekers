@@ -1,5 +1,4 @@
-# seekers
-Interview questions, process, challenges, etc.
+Thinking and writing about hiring, trying to get hired, etcetera from [Jess](https://github.com/jessabean) & [Sara](https://github.com/dotsara). 
 
 ## Contents
 
