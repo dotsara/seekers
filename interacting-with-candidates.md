@@ -9,3 +9,8 @@ However you choose to do it--a shared, but not public gist; a shared Google doc;
 * _how they pronounce their names_, how they prefer to be addressed (e.g. Liz not Elizabeth, preferred pronouns ([more info](https://en.wikipedia.org/wiki/Gender-specific_and_gender-neutral_pronouns)), etc.)
 * their contact information
 * if interview dates are available, then those as well
+
+
+## Links of interest
+
+* [Three unconventional interview questions](https://slackhq.com/three-unconventional-interview-questions-664cc55501e) from [Matt Haughey](https://twitter.com/mathowie) for [Slack](https://slackhq.com/)
