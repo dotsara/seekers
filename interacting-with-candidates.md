@@ -15,3 +15,4 @@ However you choose to do it--a shared, but not public gist; a shared Google doc;
 
 * [Three unconventional interview questions](https://slackhq.com/three-unconventional-interview-questions-664cc55501e) from [Matt Haughey](https://twitter.com/mathowie) for [Slack](https://slackhq.com/)
 * Stripe: [On-site interviews for Engineering: What to expect](https://stripe.com/jobs/engineering-onsite.pdf) via [@stickel](https://twitter.com/stickel) :two_hearts: _this is really, really good_
+* [working remotely](https://github.com/lenazun/working-remotely/blob/master/ideas.md): there are good points in this doc which don't need to be exclusive to being a distributed team member, e.g. [Health, family and the real world](https://github.com/lenazun/working-remotely/blob/master/ideas.md#health-family-and-the-real-world)
