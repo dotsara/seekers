@@ -1,6 +1,7 @@
 Code challenges
 ====
 
+
 * When is the ideal time to deliver a code challenge to a candidate?
 * Are there exceptions for having every candidate complete a code challenge? What are those?   
  * i.e. do they have a deep or currently active GitHub profile that provides you with enough information about how they write code?
@@ -11,4 +12,6 @@ Code challenges
 * Are you clear about your expectations? Must the code be complete? If not, do you want or expect to see notes/though process? 
 * How do you want the challenge delivered back to you? As a (private) GitHub repo? A `.zip` file? Both?
 
-## example code challenges
+-----
+
+* https://github.com/poteto/hiring-without-whiteboards
