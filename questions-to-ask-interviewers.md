@@ -31,3 +31,8 @@ In July 2016, I learned [a useful bit of shorthand for explaining diversity & in
 **Example questions**   
 * Does the organization (engineering) have an on-call rotation for each of its teams? What does that rotation look like? (e.g. pagerduty)
 
+### management
+
+**Example questions**
+* "Tell me about a time you helped a direct report develop their career" 
+
