@@ -36,3 +36,7 @@ In July 2016, I learned [a useful bit of shorthand for explaining diversity & in
 **Example questions**
 * "Tell me about a time you helped a direct report develop their career" 
 
+
+## Links
+
+* [5 questions to ask a job interviewer](https://www.thecut.com/article/5-questions-to-ask-a-job-interviewer.html)
