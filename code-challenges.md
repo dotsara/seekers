@@ -15,3 +15,4 @@ Code challenges
 -----
 
 * https://github.com/poteto/hiring-without-whiteboards
+* April 2019: https://slack.engineering/refactoring-backend-engineering-hiring-at-slack-b53b1e0e7a3c
