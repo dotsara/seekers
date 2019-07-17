@@ -15,4 +15,4 @@ An excellent tweet-thread about the hiring process and the rigor applied to it (
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If there is a talent shortage, it is of people who know how to run a hiring process like it is a business.</p>&mdash; Patrick McKenzie (@patio11) <a href="https://twitter.com/patio11/status/770980297374478337">August 31, 2016</a></blockquote>
 
-[On Developer Hiring](http://kasrarahjerdi.com/2016/08/on-developer-hiring/) ( via [@pamasaur](https://twitter.com/pamasaur)
+[On Developer Hiring](http://kasrarahjerdi.com/2016/08/on-developer-hiring/) ( via [@pamasaur](https://twitter.com/pamasaur) )
